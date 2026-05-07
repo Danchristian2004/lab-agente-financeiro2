@@ -39,7 +39,9 @@ A partir de dados como histórico de transações, perfil de investidor e metas 
 Apresentação em vídeo do projeto contendo problema, solução, demonstração e diferenciais.
 
 🔗 Link do vídeo:
-(irei atualizaar link)
+um video de ia explicando a minha ia: 
+
+https://notebooklm.google.com/notebook/2fd239f1-a1ca-4b04-856a-53568ca62970/artifact/4c897f51-42bf-40ec-b7c5-4d473f4f5a73?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
 
 ---
 
